@@ -5,7 +5,7 @@ Python Web Scraper
 <!-- Information badges -->
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/StormJose/scraper/commit-activity)  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/scraper/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/scraper) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/scraper/releases) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/StormJose/scraper/commit/main)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/StormJose/scraper/commit-activity)  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/StormJose/scraper/blob/main/LICENSE) [![GitHub branches](https://badgen.net/github/branches/Naereen/Strapdown.js)](https://github.com/StormJose/scraper) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/StormJose/scraper/tags) [![GitHub latest commit](https://badgen.net/github/last-commit/Naereen/Strapdown.js)](https://GitHub.com/StormJose/scraper/commit)
 
 ## Description
 
